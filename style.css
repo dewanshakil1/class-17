@@ -71,4 +71,13 @@ ul li a:hover{
 .htmlResult{
     box-shadow: var(--shadow-1);
 }
+.modal-body  img{
+    width: 200px;
+    height: auto;
+    display: block;
+    margin: auto;
+}
+.modal-body  h2{
+    text-align: center;
+}
 
